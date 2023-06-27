@@ -4,7 +4,11 @@
 <p><h1 align="center">Hi 👋, I'm ShivaniShirale</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanishirale&label=Profile%20views&color=0e75b6&style=flat" alt="shivanishirale" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shivanishirale&label=Profile%20views&color=0e75b6&style=flat" alt="shivanishirale" />
+  <img src="https://img.shields.io/badge/Contributors-0-blue" alt="shivanishirale"/>
+  <img src="https://img.shields.io/badge/Forks-0-green" alt="shivanishirale">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
